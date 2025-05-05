@@ -23,7 +23,7 @@ Visted, E. (2025). *Research Code Repository* (Version 0.0.1) [Computer software
 
 **BibTeX**
 @software{visted2025repo,
-  author       = {Dag Visted},
+  author       = {Endre Visted},
   title        = {Research Code Repository},
   version      = {0.0.1},
   year         = {2025},
